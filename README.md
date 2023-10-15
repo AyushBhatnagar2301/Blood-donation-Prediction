@@ -14,7 +14,7 @@ Choose a suitable machine learning algorithm for prediction (e.g., Logistic Regr
 Train the selected model using the training data.
 5. Model Evaluation:
 Evaluate the model's performance using the testing data.
-Common evaluation metrics include accuracy, precision, recall, and F1-score.
+Common evaluation metrics include accuracy, precision, recall etc.
 6. Hyperparameter Tuning:
 Fine-tune the model by adjusting hyperparameters to improve its accuracy and generalization.
 7. Prediction and Deployment:
